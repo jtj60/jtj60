@@ -20,6 +20,12 @@
 
 <br />
 
+|Github Stats|Top Languages|
+|---|---|
+| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jtj60&theme=dark&background=36393F&ring=F9A527&fire=F9A527)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtj60&theme=slateorange&layout=compact&hide=less&count_private=false)](https://github.com/jtj60/github-readme-stats) |
+
+<br />
+
 <h3 align="center">Contact Information: </h3>
 <div align="center">
 <a target="blank" href="https://linkedin.com/in/jacob---johnson">
