@@ -10,11 +10,11 @@
 
 <h3 align="center">My Languages and Tools </h3>
 <div align="center">
-	<img alt="Python" src="https://raw.githubusercontent.com/jtj60/landing-page/main/icons/Python.png" width="52" />
-	<img alt="Javascript" src="https://raw.githubusercontent.com/jtj60/landing-page/main/icons/Javascript.png" width="52" />
-	<a href="https://reactjs.org/"><img alt="React" src="https://raw.githubusercontent.com/jtj60/landing-page/main/icons/React.js.png" width="52" /></a>
-	<a href="https://nextjs.org/"><img alt="Next.js" src="https://raw.githubusercontent.com/jtj60/landing-page/main/icons/Next.js.png" width="52" /></a>
-	<a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://raw.githubusercontent.com/jtj60/landing-page/main/icons/PostgreSQL.png" width="52" /></a>
+	<img alt="Python" src="https://raw.githubusercontent.com/jtj60/landing-page/main/Python.png" width="52" />
+	<img alt="Javascript" src="https://raw.githubusercontent.com/jtj60/landing-page/main/Javascript.png" width="52" />
+	<a href="https://reactjs.org/"><img alt="React" src="https://raw.githubusercontent.com/jtj60/landing-page/main/React.js.png" width="52" /></a>
+	<a href="https://nextjs.org/"><img alt="Next.js" src="https://raw.githubusercontent.com/jtj60/landing-page/main/Next.js.png" width="52" /></a>
+	<a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://raw.githubusercontent.com/jtj60/landing-page/main/PostgreSQL.png" width="52" /></a>
 	<!-- React-Flow -->
 </div>
 
@@ -30,9 +30,9 @@
 <h3 align="center">Contact Information: </h3>
 <div align="center">
 <a href="https://www.linkedin.com/in/jake---johnson/">
-	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/icons/Linkedin.png" width="35" alt="Linkedin Logo"/>
+	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/Linkedin.png" width="35" alt="Linkedin Logo"/>
 </a>
 <a href="mailto:jaketjohnson97@gmail.com">
-	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/icons/Email.png" width="35" alt="Email Logo"/>
+	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/Email.png" width="35" alt="Email Logo"/>
 </a>
 </div>
