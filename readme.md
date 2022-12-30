@@ -22,7 +22,7 @@
 
 <h3 align="center">Contact Information: </h3>
 <div align="center">
-<a href="https://linkedin.com/in/jake---johnson/" target="_blank">
+<a target="_blank" href="https://linkedin.com/in/jake---johnson/">
 	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/Linkedin.png" width="35" alt="Linkedin Logo"/>
 </a>
 <a href="mailto:jaketjohnson97@gmail.com">
