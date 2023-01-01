@@ -5,9 +5,6 @@
 * On the backend, I'm very familiar with Python, C++, and Ruby on Rails, while also having experience with java.
 * For frontend, I've worked with javascript frameworks such as next.js and react, and also obviously HTML/CSS.
 
-
-<hr />
-
 <h2 align="center">Skills </h2>
 <h3 style="display: inline-block">Languages</h3>
 <h3 style="display: inline-block">Tools</h3>
