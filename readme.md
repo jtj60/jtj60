@@ -20,12 +20,12 @@
 </div>
 <hr />
 
-<h3 align="center">Contact Me: </h3>
-<div align="center">
-<a target="blank" href="https://linkedin.com/in/jacob---johnson">
-	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/Linkedin.png" width="35" alt="Linkedin Logo"/>
-</a>
-<a href="mailto:jaketjohnson97@gmail.com">
-	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/Email.png" width="35" alt="Email Logo"/>
-</a>
+<!-- <h3 align="center">Contact Me: </h3> -->
+<div align="right">
+	<a target="blank" href="https://linkedin.com/in/jacob---johnson">
+		<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/Linkedin.png" width="35" alt="Linkedin Logo"/>
+	</a>
+	<a href="mailto:jaketjohnson97@gmail.com">
+		<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/Email.png" width="35" alt="Email Logo"/>
+	</a>
 </div>
