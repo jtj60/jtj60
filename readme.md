@@ -8,16 +8,16 @@
 
 <h2 align="center">Skills </h2>
 <div align="center">
-	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/python1.png" width="52" />
-	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/rails1.png" width="52" />
-	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/c++1.png" width="52" />
-	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/java.png" width="52" />
-	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/Javascript.png" width="52" />
-	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/react.png" width="52" />
-	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/nextJS.png" width="52" />
-	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/sql.png" width="52" />
-	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/postgres1.png" width="52" />
-	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/docker.png" width="52" />
+	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/python1.png" height="80" width="80" />
+	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/rails1.png" height="80" width="80" />
+	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/c++1.png" height="80" width="80" />
+	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/java.png" height="80" width="80" />
+	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/Javascript.png" height="80" width="80" />
+	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/react.png" height="80" width="80" />
+	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/nextJS.png" height="80" width="80" />
+	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/sql.png" height="80" width="80" />
+	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/postgres1.png" height="80" width="80" />
+	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/docker.png" height="80" width="80" />
 
 </div>
 <hr />
