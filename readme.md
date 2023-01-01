@@ -7,12 +7,10 @@
 <hr /> -->
 
 <h2 align="center">Skills </h2>
-<div>
-	<span style="display: inline-block">
-		<h3 style="float: left">Languages</h3>
-		<h3 style="float: right">Tools</h3>
-	</span
-</div>
+<span style="display: inline">
+	<h3 style="float: left">Languages</h3>
+	<h3 style="float: right">Tools</h3>
+</span
 
 <!-- <img alt="Python" src="https://raw.githubusercontent.com/jtj60/landing-page/main/Python.png" width="52" />
 <img alt="Rails" src="https://raw.githubusercontent.com/jtj60/landing-page/main/rails.png" width="52" />
@@ -29,12 +27,12 @@
 
 <br />
 
-<h3 align="center">Contact Me: </h3>
+<!-- <h3 align="center">Contact Me: </h3>
 <div align="center">
 <a target="blank" href="https://linkedin.com/in/jacob---johnson">
 	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/Linkedin.png" width="35" alt="Linkedin Logo"/>
 </a>
 <a href="mailto:jaketjohnson97@gmail.com">
 	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/Email.png" width="35" alt="Email Logo"/>
-</a>
+</a> -->
 </div> -->
