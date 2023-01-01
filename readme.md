@@ -9,9 +9,9 @@
 <hr />
 
 <h2 align="center">Skills </h2>
-<div style="display: inline">
-    <h3 style="float: left">Languages</h3>
-    <h4 style="float: right">Tools</h4>
+<div>
+    <h3 style="display: inline; float: left">Languages</h3>
+    <h4 style="display: inline; float: right">Tools</h4>
 </div>
 <hr />
 
