@@ -8,15 +8,15 @@
 
 <h2 align="center">Skills </h2>
 <div align="center">
-	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/python.png" width="52" />
-	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/rails.png" width="52" />
-	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/c++.png" width="52" />
+	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/python1.png" width="52" />
+	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/rails1.png" width="52" />
+	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/c++1.png" width="52" />
 	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/java.png" width="52" />
 	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/Javascript.png" width="52" />
 	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/react.png" width="52" />
 	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/nextJS.png" width="52" />
 	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/sql.png" width="52" />
-	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/postgres.png" width="52" />
+	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/postgres1.png" width="52" />
 	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/docker.png" width="52" />
 
 </div>
