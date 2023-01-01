@@ -6,9 +6,13 @@
 * For frontend, I've worked with javascript frameworks such as next.js and react, and also obviously HTML/CSS.
 <hr />
 
-<!-- <h2 align="center">Skills </h2> -->
-<h3 style="display: inline-block">Languages</h3>
-<h3 style="display: inline-block">Tools</h3>
+<h2 align="center">Skills </h2>
+<div>
+	<span align="center">
+		<h3 style="float: left">Languages</h3>
+		<h3 style="float: right">Tools</h3>
+	</span
+</div>
 
 <img alt="Python" src="https://raw.githubusercontent.com/jtj60/landing-page/main/Python.png" width="52" />
 <img alt="Rails" src="https://raw.githubusercontent.com/jtj60/landing-page/main/rails.png" width="52" />
