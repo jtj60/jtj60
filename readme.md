@@ -17,6 +17,8 @@
 	<img alt="Next.js" src="https://raw.githubusercontent.com/jtj60/landing-page/main/Next.js.png" width="52" />
 	<img alt="SQL" src="https://raw.githubusercontent.com/jtj60/landing-page/main/sql.png" width="52" />
 	<img alt="PostgreSQL" src="https://raw.githubusercontent.com/jtj60/landing-page/main/PostgreSQL.png" width="52" />
+	<img alt="Docker" src="https://raw.githubusercontent.com/jtj60/landing-page/main/docker.png" width="52" />
+
 </div>
 <hr />
 
