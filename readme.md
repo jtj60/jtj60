@@ -7,10 +7,12 @@
 <hr />
 
 <h2 align="center">Skills </h2>
-<span style="display: inline">
-	<h3 style="float: left">Languages</h3>
-	<h3 style="float: right">Tools</h3>
-</span
+<h3>
+	<span>
+		<p style="float: left">Languages</p>
+		<p style="float: right">Tools</p>
+	</span>
+</h3>
 
 <img alt="Python" src="https://raw.githubusercontent.com/jtj60/landing-page/main/Python.png" width="52" />
 <img alt="Rails" src="https://raw.githubusercontent.com/jtj60/landing-page/main/rails.png" width="52" />
