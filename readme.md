@@ -9,8 +9,8 @@
 <hr />
 
 <h2 align="center">Skills </h2>
-<h3 style="display: inline; float: left">Languages</h3>
-<h3 style="display: inline; float: right">Tools</h3>
+<h3 style="display: inline-block">Languages</h3>
+<h3 style="display: inline-block">Tools</h3>
 
 <img alt="Python" src="https://raw.githubusercontent.com/jtj60/landing-page/main/Python.png" width="52" />
 <img alt="Rails" src="https://raw.githubusercontent.com/jtj60/landing-page/main/rails.png" width="52" />
