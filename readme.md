@@ -1,4 +1,4 @@
-<h1 align="left">Greetings, my name is Jake.</h1>
+<h1 align="center">Greetings, my name is Jake.</h1>
 
 * I am a fullstack software developer currently based in Austin, Texas.
 * I recently graduated from Texas State University with a degree in Computer Science.
@@ -6,8 +6,8 @@
 * For frontend, I've worked with javascript frameworks such as next.js and react, and also obviously HTML/CSS.
 <hr />
 
-<h2 align="left">Skills </h2>
-<div align="left">
+<h2 align="center">Skills </h2>
+<div align="center">
 	<img alt="Python" src="https://raw.githubusercontent.com/jtj60/landing-page/main/Python.png" width="52" />
 	<img alt="Rails" src="https://raw.githubusercontent.com/jtj60/landing-page/main/rails.png" width="52" />
 	<img alt="C++" src="https://raw.githubusercontent.com/jtj60/landing-page/main/c++.png" width="52" />
@@ -20,8 +20,8 @@
 </div>
 <hr />
 
-<!-- <h3 align="left">Contact Me: </h3> -->
-<div align="left">
+<!-- <h3 align="center">Contact Me: </h3> -->
+<div align="center">
 	<a target="blank" href="https://linkedin.com/in/jacob---johnson">
 		<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/Linkedin.png" width="35" alt="Linkedin Logo"/>
 	</a>
