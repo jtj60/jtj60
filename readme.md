@@ -9,7 +9,7 @@
 <hr />
 
 <h2 align="center">Skills </h2>
-<div style="clear: both">
+<div style="display: inline-block">
     <h3 style="float: left">Languages</h3>
     <h4 style="float: right">Tools</h4>
 </div>
