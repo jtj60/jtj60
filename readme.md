@@ -20,7 +20,7 @@
 </div>
 <hr />
 
-<!-- <h3 align="center">Contact Me: </h3> -->
+<h3 align="center">Contact Me: </h3>
 <div align="center">
 	<a target="blank" href="https://linkedin.com/in/jacob---johnson">
 		<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/Linkedin.png" width="35" alt="Linkedin Logo"/>
