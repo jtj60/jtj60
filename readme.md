@@ -1,10 +1,10 @@
-<h1 align="center">Greetings, my name is Jake.</h1>
+<!-- <h1 align="center">Greetings, my name is Jake.</h1>
 
 * I am a fullstack software developer currently based in Austin, Texas.
 * I recently graduated from Texas State University with a degree in Computer Science.
 * On the backend, I'm very familiar with Python, C++, and Ruby on Rails, while also having experience with java.
 * For frontend, I've worked with javascript frameworks such as next.js and react, and also obviously HTML/CSS.
-<hr />
+<hr /> -->
 
 <h2 align="center">Skills </h2>
 <div>
@@ -14,7 +14,7 @@
 	</span
 </div>
 
-<img alt="Python" src="https://raw.githubusercontent.com/jtj60/landing-page/main/Python.png" width="52" />
+<!-- <img alt="Python" src="https://raw.githubusercontent.com/jtj60/landing-page/main/Python.png" width="52" />
 <img alt="Rails" src="https://raw.githubusercontent.com/jtj60/landing-page/main/rails.png" width="52" />
 <img alt="C++" src="https://raw.githubusercontent.com/jtj60/landing-page/main/c++.png" width="52" />
 <img alt="Java" src="https://raw.githubusercontent.com/jtj60/landing-page/main/java.png" width="52" />
@@ -37,4 +37,4 @@
 <a href="mailto:jaketjohnson97@gmail.com">
 	<img src="https://raw.githubusercontent.com/jtj60/landing-page/main/Email.png" width="35" alt="Email Logo"/>
 </a>
-</div>
+</div> -->
