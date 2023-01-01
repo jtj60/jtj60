@@ -7,32 +7,19 @@
 <hr />
 
 <h2 align="center">Skills </h2>
-<h3>
-	<span>
-		<p style="float: left">Languages</p>
-		<p style="float: right">Tools</p>
-	</span>
-</h3>
+<div align="center">
+	<img alt="Python" src="https://raw.githubusercontent.com/jtj60/landing-page/main/Python.png" width="52" />
+	<img alt="Rails" src="https://raw.githubusercontent.com/jtj60/landing-page/main/rails.png" width="52" />
+	<img alt="C++" src="https://raw.githubusercontent.com/jtj60/landing-page/main/c++.png" width="52" />
+	<img alt="Java" src="https://raw.githubusercontent.com/jtj60/landing-page/main/java.png" width="52" />
+	<img alt="Javascript" src="https://raw.githubusercontent.com/jtj60/landing-page/main/Javascript.png" width="52" />
+	<a href="https://reactjs.org/"><img alt="React" src="https://raw.githubusercontent.com/jtj60/landing-page/main/React.js.png" width="52" /></a>
+	<a href="https://nextjs.org/"><img alt="Next.js" src="https://raw.githubusercontent.com/jtj60/landing-page/main/Next.js.png" width="52" /></a>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-   <h2>Ciao</h2>
-   <a href=""><strong>English Version »</strong></a>
+	<img alt="SQL" src="https://raw.githubusercontent.com/jtj60/landing-page/main/sql.png" width="52" />
+	<a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://raw.githubusercontent.com/jtj60/landing-page/main/PostgreSQL.png" width="52" /></a>
 </div>
-
-<img alt="Python" src="https://raw.githubusercontent.com/jtj60/landing-page/main/Python.png" width="52" />
-<img alt="Rails" src="https://raw.githubusercontent.com/jtj60/landing-page/main/rails.png" width="52" />
-<img alt="C++" src="https://raw.githubusercontent.com/jtj60/landing-page/main/c++.png" width="52" />
-<img alt="Java" src="https://raw.githubusercontent.com/jtj60/landing-page/main/java.png" width="52" />
-<img alt="Javascript" src="https://raw.githubusercontent.com/jtj60/landing-page/main/Javascript.png" width="52" />
-<a href="https://reactjs.org/"><img alt="React" src="https://raw.githubusercontent.com/jtj60/landing-page/main/React.js.png" width="52" /></a>
-<a href="https://nextjs.org/"><img alt="Next.js" src="https://raw.githubusercontent.com/jtj60/landing-page/main/Next.js.png" width="52" /></a>
-
-<img alt="SQL" src="https://raw.githubusercontent.com/jtj60/landing-page/main/sql.png" width="52" />
-<a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://raw.githubusercontent.com/jtj60/landing-page/main/PostgreSQL.png" width="52" /></a>
-
-<!-- React-Flow -->
-
-<br />
+<hr />
 
 <h3 align="center">Contact Me: </h3>
 <div align="center">
