@@ -8,7 +8,7 @@
 
 <h2 align="center">Skills </h2>
 <div>
-	<span align="center">
+	<span>
 		<h3 style="display: inline; float: left">Languages</h3>
 		<h3 style="display: inline; float: right">Tools</h3>
 	</span
