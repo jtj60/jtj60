@@ -12,8 +12,8 @@
 <div align="center">
 	<h3 align="left">Langauges</h3>
 	
-	<p>Python <img alt="Python" src="https://raw.githubusercontent.com/jtj60/landing-page/main/Python.png" width="52" /></p>
-	<p>Rails <img alt="Rails" src="https://raw.githubusercontent.com/jtj60/landing-page/main/rails.png" width="52" /></p>
+	<img alt="Python" src="https://raw.githubusercontent.com/jtj60/landing-page/main/Python.png" width="52" />
+	<img alt="Rails" src="https://raw.githubusercontent.com/jtj60/landing-page/main/rails.png" width="52" />
 	<img alt="C++" src="https://raw.githubusercontent.com/jtj60/landing-page/main/c++.png" width="52" />
 	<img alt="Java" src="https://raw.githubusercontent.com/jtj60/landing-page/main/java.png" width="52" />
 	<img alt="Javascript" src="https://raw.githubusercontent.com/jtj60/landing-page/main/Javascript.png" width="52" />
