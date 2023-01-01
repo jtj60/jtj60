@@ -9,9 +9,9 @@
 <hr />
 
 <h2 align="center">Skills </h2>
-<div>
-    <h2 style="float: left">Heading 1</h2>
-    <h3 style="float: right">Heading 2</h3>
+<div style="clear: both" align="center">
+    <h2 style="float: left">Languages</h2>
+    <h3 style="float: right">Tools</h3>
 
 <img alt="Python" src="https://raw.githubusercontent.com/jtj60/landing-page/main/Python.png" width="52" />
 <img alt="Rails" src="https://raw.githubusercontent.com/jtj60/landing-page/main/rails.png" width="52" />
