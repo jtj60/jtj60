@@ -13,11 +13,10 @@
 	<img alt="C++" src="https://raw.githubusercontent.com/jtj60/landing-page/main/c++.png" width="52" />
 	<img alt="Java" src="https://raw.githubusercontent.com/jtj60/landing-page/main/java.png" width="52" />
 	<img alt="Javascript" src="https://raw.githubusercontent.com/jtj60/landing-page/main/Javascript.png" width="52" />
-	<a href="https://reactjs.org/"><img alt="React" src="https://raw.githubusercontent.com/jtj60/landing-page/main/React.js.png" width="52" /></a>
-	<a href="https://nextjs.org/"><img alt="Next.js" src="https://raw.githubusercontent.com/jtj60/landing-page/main/Next.js.png" width="52" /></a>
-
+	<img alt="React" src="https://raw.githubusercontent.com/jtj60/landing-page/main/React.js.png" width="52" />
+	<img alt="Next.js" src="https://raw.githubusercontent.com/jtj60/landing-page/main/Next.js.png" width="52" />
 	<img alt="SQL" src="https://raw.githubusercontent.com/jtj60/landing-page/main/sql.png" width="52" />
-	<a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://raw.githubusercontent.com/jtj60/landing-page/main/PostgreSQL.png" width="52" /></a>
+	<img alt="PostgreSQL" src="https://raw.githubusercontent.com/jtj60/landing-page/main/PostgreSQL.png" width="52" />
 </div>
 <hr />
 
