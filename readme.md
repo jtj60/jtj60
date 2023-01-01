@@ -14,6 +14,11 @@
 	</span>
 </h3>
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+   <h2>Ciao</h2>
+   <a href=""><strong>English Version »</strong></a>
+</div>
+
 <img alt="Python" src="https://raw.githubusercontent.com/jtj60/landing-page/main/Python.png" width="52" />
 <img alt="Rails" src="https://raw.githubusercontent.com/jtj60/landing-page/main/rails.png" width="52" />
 <img alt="C++" src="https://raw.githubusercontent.com/jtj60/landing-page/main/c++.png" width="52" />
