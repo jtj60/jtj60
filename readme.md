@@ -10,8 +10,8 @@
 
 <h2 align="center">Skills </h2>
 <div style="clear: both">
-    <h2 style="float: left">Languages</h2>
-    <h3 style="float: right">Tools</h3>
+    <h3 style="float: left">Languages</h3>
+    <h4 style="float: right">Tools</h4>
 </div>
 <hr />
 
