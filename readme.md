@@ -10,8 +10,7 @@
 
 <h2 align="center">Skills </h2>
 <div align="center">
-	<h3 align="left">Langauges</h3>
-	
+<!-- 	<h3 align="left">Langauges</h3> -->
 	<img alt="Python" src="https://raw.githubusercontent.com/jtj60/landing-page/main/Python.png" width="52" />
 	<img alt="Rails" src="https://raw.githubusercontent.com/jtj60/landing-page/main/rails.png" width="52" />
 	<img alt="C++" src="https://raw.githubusercontent.com/jtj60/landing-page/main/c++.png" width="52" />
@@ -20,7 +19,7 @@
 	<a href="https://reactjs.org/"><img alt="React" src="https://raw.githubusercontent.com/jtj60/landing-page/main/React.js.png" width="52" /></a>
 	<a href="https://nextjs.org/"><img alt="Next.js" src="https://raw.githubusercontent.com/jtj60/landing-page/main/Next.js.png" width="52" /></a>
 	
-	<h3 align="right">Tools</h3>
+<!-- 	<h3 align="right">Tools</h3> -->
 	<img alt="SQL" src="https://raw.githubusercontent.com/jtj60/landing-page/main/sql.png" width="52" />
 	<a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://raw.githubusercontent.com/jtj60/landing-page/main/PostgreSQL.png" width="52" /></a>
 	<!-- React-Flow -->
