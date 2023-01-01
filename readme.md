@@ -9,9 +9,11 @@
 <hr />
 
 <h2 align="center">Skills </h2>
-<div style="clear: both" align="center">
+<div style="clear: both">
     <h2 style="float: left">Languages</h2>
     <h3 style="float: right">Tools</h3>
+</div>
+<hr />
 
 <img alt="Python" src="https://raw.githubusercontent.com/jtj60/landing-page/main/Python.png" width="52" />
 <img alt="Rails" src="https://raw.githubusercontent.com/jtj60/landing-page/main/rails.png" width="52" />
@@ -25,9 +27,6 @@
 <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://raw.githubusercontent.com/jtj60/landing-page/main/PostgreSQL.png" width="52" /></a>
 
 <!-- React-Flow -->
-</div>
-<hr />
-
 
 <br />
 
