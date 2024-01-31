@@ -1,8 +1,7 @@
 <h1 align="center">Greetings, my name is Jake.</h1>
 
-* I am a fullstack software developer from Texas, currently based in DFW. 
-* I recently graduated from Texas State University with a degree in Computer Science.
-* On the backend: I'm very familiar with Python and Ruby on Rails, and also have experience in C++ and Java.
+* I am a fullstack software developer from Texas, currently based in DFW.
+* On the backend: I'm very familiar with Python, NodeJS, and Ruby on Rails, and also have experience in C++ and Java.
 * On the frontend: Outside of HTML/CSS/JS, I've worked with Next.js and React.
 <hr />
 
